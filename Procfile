@@ -1,1 +1,2 @@
-web: bin/hubot -a campfire -n pochibot
+web: bin/hubot --adapter slack
+
